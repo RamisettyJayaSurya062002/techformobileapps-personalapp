@@ -90,7 +90,6 @@ web: Launches the application in a web browser and launches the Expo development
 
 dependencies: Provides a list of the project's necessary dependencies.
 
-
 Expo: The Expo SDK, which gives users access to a range of native services and APIs.
 
 Expo-status-bar: A module designed to manage the Expo applications' status bar.
@@ -106,3 +105,12 @@ JavaScript code can be transpiled using the @babel/core compiler core.
 private: A signal that this package is private and shouldn't be added to a public registry.
 
 The project's dependencies, scripts, and metadata must all be managed by this file in order for the program to be properly created, launched, and operated across several platforms.
+
+# package-lock.json:
+
+The dependencies and versions of the project are listed in this file, which is necessary for the project to function properly.
+
+Here is the working video demonsration of the Autobuddy app:
+
+https://github.com/RamisettyJayaSurya062002/techformobileapps-personalapp/assets/148711687/fac73295-39a0-45a6-bde2-41575916d772
+
